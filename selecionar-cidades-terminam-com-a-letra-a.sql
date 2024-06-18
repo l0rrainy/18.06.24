@@ -1,0 +1,1 @@
+SELECT * FROM `cidades` WHERE `nome` LIKE '%a';
